@@ -1,2 +1,2 @@
 # cloudforming
-Simple (Dangerous) CloudFormation templates
+Simple CloudFormation templates
